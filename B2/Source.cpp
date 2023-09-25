@@ -189,7 +189,4 @@ void joinOEI(CL& m, CL m1, CL m2)
 	while (j < size(m2))
 		m.list[size(m)++] = m2.list[j++];
 }
-void hello()
-{
-	cout<<"Hello World";
-}
+
