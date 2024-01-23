@@ -6,6 +6,7 @@ typedef struct contiguousList
 	int n;
 	int list[MAX];
 }CL;
+void world();
 void init(CL&);
 bool isEmpty(CL);
 bool isFull(CL);

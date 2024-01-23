@@ -193,3 +193,8 @@ void hello()
 {
 	cout<<"Hello world.";
 }
+
+void world()
+{
+	cout << "Thu code";
+}
